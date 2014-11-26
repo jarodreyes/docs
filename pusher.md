@@ -12,8 +12,9 @@ Add realtime WebSocket goodness to your app in minutes!</span>
 
 <div>
 
-<ul class="benefits masonry" style="position: relative; height: 279px;">
-<li class="last masonry-brick" style="position: absolute; top: 0px; left: 0px;">
+<ul class="benefits masonry">
+
+<li class="last masonry-brick">
 <div class="content">
 <h3>
 <span class="icon custom_color">lighting</span>
@@ -25,6 +26,9 @@ Flexible pub/sub messaging
 <p>Pusher makes it easy to push any type of content to browsers and devices in realtime.</p>
 
 </div>
+
+<br>
+
 </li>
 <li class="masonry-brick" style="position: absolute; top: 0px; left: 480px;">
 <div class="content">
