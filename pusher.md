@@ -10,13 +10,9 @@
 <a href="/pusher">
 Pusher
 
-<span class="price">from $0/mo</span>
-</a>
-<span class="description">Add realtime WebSocket goodness to your app in minutes!</span>
-</h1>
-</div>
+Add realtime WebSocket goodness to your app in minutes!</span>
 
-
+<div>
 <ul class="benefits masonry" style="position: relative; height: 279px;">
 <li class="last masonry-brick" style="position: absolute; top: 0px; left: 0px;">
 <div class="content">
@@ -98,7 +94,9 @@ Stats &amp; reporting
 </li>
 </ul>
 
-read more at http://pusher.com
+</div>
+
+Read more at http://pusher.com
 
 
 ## Using example
