@@ -21,9 +21,9 @@ AUTH TOKEN
 478c303fa1f9daa694a8c98444b73d8b
 ```
 
-Then add this data to the KONA Services
+Then add this data to the KONA Services, go to Services (or Connectors) and then choose Twilio Service
 
-![alt tag](http://i.imgur.com/lUnpXtd.png)
+![Imgur](http://i.imgur.com/kSSpz4pl.png)
 
 ## Sending SMS
 
