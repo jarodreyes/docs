@@ -9,7 +9,7 @@ Read more at https://www.twilio.com/
 
 First create your Twilio account, then just get the following information
 
-![alt tag](http://i.imgur.com/sfxpOMn.png)
+![alt tag](http://i.imgur.com/TLlmD9o.png)
 
 ACCOUNT SID
 ```
