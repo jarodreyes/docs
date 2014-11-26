@@ -51,4 +51,4 @@ var twilio = kona.twilio.open('tw1');
 twilio.sendVoIP('(FROM) Number', '(TO) Number', "http://demo.twilio.com/welcome/voice/");
 ```
 
-You can change the URL for the text that you want, more information in twilio documentation
+You can change the URL for the text, more information in twilio documentation
