@@ -52,3 +52,17 @@ twilio.sendVoIP('(FROM) Number', '(TO) Number', "http://demo.twilio.com/welcome/
 ```
 
 You can change the URL for the text, more information in twilio documentation
+
+the example url contains the following 
+
+```xml
+<Response>
+  <Say voice="alice">
+    Thanks for the call. Configure your number's voice U R L to change this message.
+  </Say>
+  <Pause length="1"/>
+    <Say voice="alice">
+  Let us know if we can help you in any way during your development.
+  </Say>
+</Response>
+```
