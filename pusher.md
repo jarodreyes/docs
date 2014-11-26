@@ -3,7 +3,7 @@
 
 ## Introduction
 
-
+Add realtime WebSocket goodness to your app in minutes!
 
 Read more at http://pusher.com
 
