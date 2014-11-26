@@ -3,16 +3,15 @@
 
 ## Introduction
 
-<div class="addon_header">
-<div class="cli">heroku addons:add pusher</div>
-<h1>
+
+
+
 <img alt="Original" data-corsurl="https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/108/original.png?1383868128" id="logo" src="https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/108/original.png?1383868128">
-<a href="/pusher">
-Pusher
 
 Add realtime WebSocket goodness to your app in minutes!</span>
 
 <div>
+
 <ul class="benefits masonry" style="position: relative; height: 279px;">
 <li class="last masonry-brick" style="position: absolute; top: 0px; left: 0px;">
 <div class="content">
