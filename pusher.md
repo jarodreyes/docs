@@ -3,8 +3,103 @@
 
 ## Introduction
 
-With pusher you can add realtime to your app.
+<div class="addon_header">
+<div class="cli">heroku addons:add pusher</div>
+<h1>
+<img alt="Original" data-corsurl="https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/108/original.png?1383868128" id="logo" src="https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/108/original.png?1383868128">
+<a href="/pusher">
+Pusher
+
+<span class="price">from $0/mo</span>
+</a>
+<span class="description">Add realtime WebSocket goodness to your app in minutes!</span>
+</h1>
+</div>
+
+
+<ul class="benefits masonry" style="position: relative; height: 279px;">
+<li class="last masonry-brick" style="position: absolute; top: 0px; left: 0px;">
+<div class="content">
+<h3>
+<span class="icon custom_color">lighting</span>
+<span class="title">
+Flexible pub/sub messaging
+</span>
+</h3>
+
+<p>Pusher makes it easy to push any type of content to browsers and devices in realtime.</p>
+
+</div>
+</li>
+<li class="masonry-brick" style="position: absolute; top: 0px; left: 480px;">
+<div class="content">
+<h3>
+<span class="icon custom_color">coversation</span>
+<span class="title">
+Great for building chat, games etc...
+</span>
+</h3>
+
+<p>Use Pusher as a foundation for your chat feature, multiplayer game or just to update content on a page in realtime.</p>
+
+</div>
+</li>
+<li class="masonry-brick" style="position: absolute; top: 99px; left: 0px;">
+<div class="content">
+<h3>
+<span class="icon custom_color">clock</span>
+<span class="title">
+Integrate in minutes
+</span>
+</h3>
+
+<p>Libraries for all popular languages and frameworks makes integration easy.</p>
+
+</div>
+</li>
+<li class="last masonry-brick" style="position: absolute; top: 99px; left: 480px;">
+<div class="content">
+<h3>
+<span class="icon custom_color">iphone</span>
+<span class="title">
+Supports all browsers and devices
+</span>
+</h3>
+
+<p>Clients can receive realtime message in any browser, mobile device or even mobile app.</p>
+
+</div>
+</li>
+<li class="masonry-brick" style="position: absolute; top: 180px; left: 0px;">
+<div class="content">
+<h3>
+<span class="icon custom_color">shieldfilled</span>
+<span class="title">
+Proven security
+</span>
+</h3>
+
+<p>Create secure channels with our proven authorization system and secure message content with SSL support.</p>
+
+</div>
+</li>
+<li class="masonry-brick" style="position: absolute; top: 198px; left: 480px;">
+<div class="content">
+<h3>
+<span class="icon custom_color">linegraph</span>
+<span class="title">
+Stats &amp; reporting
+</span>
+</h3>
+
+<p>Comprehensive statistics and reports on usage available in your dashboard.</p>
+
+</div>
+</li>
+</ul>
+
 read more at http://pusher.com
+
 
 ## Using example
 
