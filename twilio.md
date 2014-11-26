@@ -25,9 +25,10 @@ Then add this data to the KONA Services, go to Services (or Connectors) and then
 
 ![Imgur](http://i.imgur.com/kSSpz4pl.png)
 
+- First check out your account number here https://www.twilio.com/user/account/phone-numbers/incoming you must use this number in the ```FROM``` parameter.
+
 ## Sending SMS
 
-- First check out your account number here https://www.twilio.com/user/account/phone-numbers/incoming you must use this number in the ```FROM``` parameter.
 - Before sending the sms message you must check the permision location here https://www.twilio.com/user/account/settings/international/sms, for example allows that the sms can be from Brazil.
 
 Just copy the code and test it!
@@ -35,9 +36,19 @@ Just copy the code and test it!
 ```js
 //open 
 var twilio = kona.twilio.open('tw1');
-
 // send a sms
 twilio.sendSMS('(FROM) Number', '(TO) Number', "This is a test message!");
 ```
 
 ## Sending VoIP
+
+- Before sending the voIP call you must check that your country is supported, for example Uruguay it's not supported right row.
+
+```js
+//open 
+var twilio = kona.twilio.open('tw1');
+// send a sms
+twilio.sendVoIP('(FROM) Number', '(TO) Number', "http://demo.twilio.com/welcome/voice/");
+```
+
+You can change the URL for the text that you want, more information in twilio documentation
