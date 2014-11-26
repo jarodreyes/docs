@@ -23,7 +23,7 @@ AUTH TOKEN
 
 Then add this data to the KONA Services
 
-[alt tag](http://i.imgur.com/lUnpXtdl.png)
+![alt tag](http://i.imgur.com/lUnpXtd.png)
 
 Just copy the code and test it!
 
