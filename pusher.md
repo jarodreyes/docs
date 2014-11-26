@@ -13,7 +13,7 @@ Add realtime WebSocket goodness to your app in minutes!</span>
 <div>
 
 
-<h3>
+<h3 style="font-size: 18pt;color: black;">
 <span class="icon custom_color">lighting</span>
 <span class="title">
 Flexible pub/sub messaging
@@ -23,7 +23,7 @@ Flexible pub/sub messaging
 <p>Pusher makes it easy to push any type of content to browsers and devices in realtime.</p>
 
 
-<h3>
+<h3 style="font-size: 18pt;color: black;">
 <span class="icon custom_color">coversation</span>
 <span class="title">
 Great for building chat, games etc...
@@ -34,7 +34,7 @@ Great for building chat, games etc...
 
 </div>
 
-<h3>
+<h3 style="font-size: 18pt;color: black;">
 <span class="icon custom_color">clock</span>
 <span class="title">
 Integrate in minutes
@@ -44,7 +44,7 @@ Integrate in minutes
 <p>Libraries for all popular languages and frameworks makes integration easy.</p>
 
 
-<h3>
+<h3 style="font-size: 18pt;color: black;">
 <span class="icon custom_color">iphone</span>
 <span class="title">
 Supports all browsers and devices
@@ -54,7 +54,7 @@ Supports all browsers and devices
 <p>Clients can receive realtime message in any browser, mobile device or even mobile app.</p>
 
 
-<h3>
+<h3 style="font-size: 18pt;color: black;">
 <span class="icon custom_color">shieldfilled</span>
 <span class="title">
 Proven security
@@ -64,7 +64,7 @@ Proven security
 <p>Create secure channels with our proven authorization system and secure message content with SSL support.</p>
 
 
-<h3>
+<h3 style="font-size: 18pt;color: black;">
 <span class="icon custom_color">linegraph</span>
 <span class="title">
 Stats &amp; reporting
