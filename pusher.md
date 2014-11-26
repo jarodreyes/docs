@@ -12,10 +12,7 @@ Add realtime WebSocket goodness to your app in minutes!</span>
 
 <div>
 
-<ul class="benefits masonry">
 
-<li class="last masonry-brick">
-<div class="content">
 <h3>
 <span class="icon custom_color">lighting</span>
 <span class="title">
@@ -25,13 +22,7 @@ Flexible pub/sub messaging
 
 <p>Pusher makes it easy to push any type of content to browsers and devices in realtime.</p>
 
-</div>
 
-<br>
-
-</li>
-<li class="masonry-brick" style="position: absolute; top: 0px; left: 480px;">
-<div class="content">
 <h3>
 <span class="icon custom_color">coversation</span>
 <span class="title">
@@ -42,9 +33,7 @@ Great for building chat, games etc...
 <p>Use Pusher as a foundation for your chat feature, multiplayer game or just to update content on a page in realtime.</p>
 
 </div>
-</li>
-<li class="masonry-brick" style="position: absolute; top: 99px; left: 0px;">
-<div class="content">
+
 <h3>
 <span class="icon custom_color">clock</span>
 <span class="title">
@@ -54,10 +43,7 @@ Integrate in minutes
 
 <p>Libraries for all popular languages and frameworks makes integration easy.</p>
 
-</div>
-</li>
-<li class="last masonry-brick" style="position: absolute; top: 99px; left: 480px;">
-<div class="content">
+
 <h3>
 <span class="icon custom_color">iphone</span>
 <span class="title">
@@ -67,10 +53,7 @@ Supports all browsers and devices
 
 <p>Clients can receive realtime message in any browser, mobile device or even mobile app.</p>
 
-</div>
-</li>
-<li class="masonry-brick" style="position: absolute; top: 180px; left: 0px;">
-<div class="content">
+
 <h3>
 <span class="icon custom_color">shieldfilled</span>
 <span class="title">
@@ -80,10 +63,7 @@ Proven security
 
 <p>Create secure channels with our proven authorization system and secure message content with SSL support.</p>
 
-</div>
-</li>
-<li class="masonry-brick" style="position: absolute; top: 198px; left: 480px;">
-<div class="content">
+
 <h3>
 <span class="icon custom_color">linegraph</span>
 <span class="title">
@@ -93,11 +73,6 @@ Stats &amp; reporting
 
 <p>Comprehensive statistics and reports on usage available in your dashboard.</p>
 
-</div>
-</li>
-</ul>
-
-</div>
 
 Read more at http://pusher.com
 
