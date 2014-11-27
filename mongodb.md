@@ -12,11 +12,11 @@ Create the connector in KONA, go to KONA -> Services -> MongoDB add the mongodb 
 
 ## Getting parameters from MongoLab
 
-[Imgur](http://i.imgur.com/sIuHiLj.png)
+![alt tag](http://i.imgur.com/sIuHiLj.png)
 
 and then in KONA we put the credentials
 
-[Imgur](http://i.imgur.com/yusD754.png)
+![alt tag](http://i.imgur.com/yusD754.png)
 
 Now, you can test it, with this you can insert one objecto the the 'col1' Collection and see the result
 
