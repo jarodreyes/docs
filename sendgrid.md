@@ -15,7 +15,7 @@ password
 
 Then just go to KONA -> Services -> Sendgrid and create it.
 
-![alt s] (http://i.imgur.com/YtpurML.png)
+![alt tag] (http://i.imgur.com/YtpurML.png)
 
 ```js
 var test = function(){
