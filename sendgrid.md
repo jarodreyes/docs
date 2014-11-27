@@ -28,4 +28,5 @@ var test = function(){
 };
 ```
 
-With Sendgrid you can send emails with the from with your company domain
+With Sendgrid you can send emails with the from with your company domain, read more at https://sendgrid.com/docs
+
