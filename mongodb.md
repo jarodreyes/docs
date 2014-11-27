@@ -10,6 +10,27 @@ We prefer MongoLab.
 
 Create the connector in KONA, go to KONA -> Services -> MongoDB add the mongodb credendials.
 
+## Getting parameters from MongoLab
+
+[Imgur](http://i.imgur.com/sIuHiLj.png)
+
+and then in KONA we put the credentials
+
+[Imgur](http://i.imgur.com/yusD754.png)
+
+Now, you can test it, with this you can insert one objecto the the 'col1' Collection and see the result
+
+```js
+var test = function() {
+    var db = kona.mongodb.open('prod');
+    var coll = db.getCollection('col1');
+    
+    var obj = {name : "Kona"};
+    var dbObj = toJson(obj); //this step it's important!
+    return coll.insert(dbObj);
+}
+
+```
 #MongoDB KONA Apis
 
 This is the Java SDK with some important changes
