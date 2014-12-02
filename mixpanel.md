@@ -26,3 +26,21 @@ for example here the token is
 Token = 187559dea64acbaa49a868622df06785
 ```
 
+Then go to KONA -> Services, Choose MixPanel and setup the token
+
+![alt tag](http://i.imgur.com/qHgYNJg.png)
+
+Try the sample code
+
+```js
+var mixpanel = kona.mixpanel.open("mix1");
+
+var props = {
+	some : "some"	
+}
+mixpanel.send(props, "my_event");
+```
+
+and enjoy the result in MixPanel.com
+
+![alt tag](http://i.imgur.com/34FMqs1.png)
