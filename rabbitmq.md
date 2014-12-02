@@ -42,4 +42,6 @@ var test = function(){
 };
 ```
 
+Finaly you can get some client to see and obtains all the messages, read more at http://www.rabbitmq.com/documentation.html and http://www.rabbitmq.com/getstarted.html
+
 
