@@ -24,3 +24,22 @@ Get the URL
 url = amqp://flaqfxdb:UeNV_1Zn57KnEZzfJPvkE3hwZj3OPnNb@tiger.cloudamqp.com/flaqfxdb
 ```
 
+Create the connector
+
+![alt tag](http://i.imgur.com/9zalP75.png)
+
+
+Test it
+
+```js
+var test = function(){
+    var rabbitmq = kona.rabbitmq.open("r1");
+
+    rabbitmq.send("my_queue", "Hi from KONA");
+
+    // close
+    rabbitmq.close();
+};
+```
+
+
