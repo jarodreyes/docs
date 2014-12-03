@@ -29,5 +29,18 @@ suscribe key = sub-c-fcd1e20e-7b11-11e4-b908-02ee2ddab7fe
 
 Go to KONA -> SERVICES -> PUBNUB and setup the credentials
 
+![alt tag](http://i.imgur.com/HX2JEoe.png)
+
+Copy the Code sample and test it!
+
+```js
+var test = function(){
+    var pubnub = kona.pubnub.open('p1'); 
+
+    var data = { message: 'hi from kona'};
+    //send the data
+    pubnub.send('my_channel',data);
+};
+```
 
 
