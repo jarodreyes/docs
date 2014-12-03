@@ -44,7 +44,7 @@ var test = function(){
 
 Then in your account (PubNub) go to the Dev Console to see in real time the data published
 
-![alt tag](http://i.imgur.com/NNtMaik.png)
+![alt tag](http://i.imgur.com/2Im9RL1.png)
 
 
 
