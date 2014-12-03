@@ -36,10 +36,9 @@ Copy the Code sample and test it!
 ```js
 var test = function(){
     var pubnub = kona.pubnub.open('p1'); 
-
-    var data = { message: 'hi from kona'};
+    
     //send the data
-    pubnub.send('my_channel',data);
+    pubnub.send('my_channel',"hi from kona");
 };
 ```
 
